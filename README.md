@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GauravThenua
+<!-- 👋 Hi, I’m @GauravThenua
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate with the experinced developers
@@ -6,7 +6,7 @@
 - LinkedIn -- [(https://www.linkedin.com/in/gaurav-thenua-0b6a6b252)]
 - Instagram -- [https://www.instagram.com/the_gaurav_thenua]
 - 
-- .
+- -->
 
 <h1 align="center">Hi 👋, I'm Gaurav Thenua</h1>
 <h3 align="center">Web Developer @ Innovation Estate | Full Stack Developer | WordPress Expert</h3>
