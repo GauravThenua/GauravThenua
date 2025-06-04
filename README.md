@@ -76,8 +76,8 @@
 
 ### 📫 Let's Connect
 
-- 📧 Email: **gauravthenua@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/gauravthenua](https://linkedin.com/in/gauravthenua)
+- 📧 Email: **chaudharyg9876@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/gauravthenua](https://www.linkedin.com/in/gaurav-thenua-0b6a6b252)
 - 🌐 Portfolio: *Coming Soon*
 
 ---
