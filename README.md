@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Thenua</h1>
-<h3 align="center">Software Developer L1 at Astro Arun Pandit | Full Stack Developer | WordPress Expert</h3>
+<h3 align="center">Software Developer at Astro Arun Pandit | Full Stack Developer | WordPress Expert</h3>
 
 ---
 
