@@ -5,8 +5,8 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Currently working as a **Software Developer L1 at Astro Arun Pandit**, developing and maintaining the **Occult Gurukul** website using **Next.js** and **Firebase**.  
-- 💻 Previously worked as a **Web Developer at Innovation Estate**, where I built and optimized multiple real estate platforms and an **Attendance & Salary Tracker System**.  
+- 💼 Currently working as a **Software Developer at Astro Arun Pandit**, developing and maintaining the **Occult Gurukul** website using **Next.js** and **Firebase**.  
+- 💻 Previously worked as a **Full Stack Developer at Innovation Estate**, where I built and optimized multiple real estate platforms and an **Attendance & Salary Tracker System**.  
 - 🧠 6 months of experience as a **Full Stack Developer Intern**, working on both frontend and backend using the **MERN Stack**.  
 - 🌐 Specialized in building responsive, SEO-optimized real estate and business websites using **Next.js**, **React**, **Tailwind CSS**, and **WordPress**.  
 - 🚀 Passionate about crafting seamless UIs, custom authentication systems, and performance-driven web apps.
